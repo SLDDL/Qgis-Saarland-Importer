@@ -1,0 +1,1 @@
+# Vendor directory for bundled dependencies

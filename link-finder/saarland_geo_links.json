@@ -1,0 +1,430 @@
+{
+  "summary": {
+    "total_links": 41,
+    "total_categories": 37,
+    "service_types": {
+      "WMS": 36,
+      "WFS": 5
+    }
+  },
+  "categories": {
+    "Geobasisdaten (opendata)": {
+      "ALKIS": {
+        "ALKIS Saarland SW": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=38960&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "Hausumringe": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=33600&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            },
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/mod_showMetadata.php/../wfs.php?FEATURETYPE_ID=2058&REQUEST=GetCapabilities&VERSION=2.0.0&SERVICE=WFS",
+              "service_type": "WFS",
+              "link_text": "Download (WFS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "Hauskoordinaten": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=33601&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            },
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/mod_showMetadata.php/../wfs.php?FEATURETYPE_ID=2057&REQUEST=GetCapabilities&VERSION=2.0.0&SERVICE=WFS",
+              "service_type": "WFS",
+              "link_text": "Download (WFS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "ALKIS Bodenschätzung": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=41583&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            },
+            {
+              "url": "https://geoportal.saarland.de/registry/wfs/332?REQUEST=GetCapabilities&VERSION=1.1.0&SERVICE=WFS",
+              "service_type": "WFS",
+              "link_text": "Download (WFS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "WFS SL ALKIS Vereinfacht": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/registry/wfs/414?REQUEST=GetCapabilities&VERSION=2.0.0&SERVICE=WFS",
+              "service_type": "WFS",
+              "link_text": "WFS Capabilities",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        }
+      },
+      "Digitale Geländemodelle": {
+        "DGM1 (2016)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=46159&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "SL_RELIEF": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=31263&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "Shaded Relief (2016)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=46160&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        }
+      },
+      "Digitale Landschaftsmodelle": {
+        "Übersichtskarte Saarland": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=35423&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "ATKIS Basis-DLM": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=46170&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        }
+      },
+      "Digitale Orthophotos": {
+        "DOP20 (2023)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=46746&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "TrueDOP": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=46302&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        }
+      },
+      "Digitale Topographische Karten": {
+        "DTK5": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=31255&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DTK25": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=42004&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DTK50": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=36890&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DTK100": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=38189&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        }
+      },
+      "Verwaltungseinheiten": {
+        "Digitale Verwaltungseinheiten": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=33679&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            },
+            {
+              "url": "https://geoportal.saarland.de/registry/wfs/419?REQUEST=GetCapabilities&VERSION=1.1.0&SERVICE=WFS",
+              "service_type": "WFS",
+              "link_text": "Download (WFS)",
+              "source_page": "https://geoportal.saarland.de/app-article/geobasisdatenuebersicht/"
+            }
+          ]
+        }
+      }
+    },
+    "Historische Geobasisdaten (opendata)": {
+      "ALKIS": {
+        "ALKIS Saarland SW GID6": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=48812&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        }
+      },
+      "Digitale Orthophotos": {
+        "DOP20 (2022)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=46337&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2021)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=44413&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2020)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=43491&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2019)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=42876&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2018)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=43866&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2017)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=43862&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2016)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=42768&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2015)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=42653&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2014)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=41419&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2013)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=40284&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2012)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=39050&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2011)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=38322&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2010)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=35002&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2009)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=36415&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP20 (2008)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=31304&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP40 (2006)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=31111&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        },
+        "DOP40 (2003)": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=36412&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        }
+      },
+      "Liegenschaftskarte": {
+        "ALK Saarland": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=31261&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        }
+      },
+      "Topographische Karten": {
+        "WMS SL Historische Karten": {
+          "links": [
+            {
+              "url": "https://geoportal.saarland.de/mapbender/php/wms.php?layer_id=41884&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS&withChilds=1",
+              "service_type": "WMS",
+              "link_text": "Darstellung (WMS)",
+              "source_page": "https://geoportal.saarland.de/app-article/historische_geobasisdatenuebersicht/"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

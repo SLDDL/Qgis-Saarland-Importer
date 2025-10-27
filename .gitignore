@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Test / cache
+.pytest_cache/
+
+# Editor and OS files
+*.swp
+*.swo
+.idea/
+.vscode/
+.DS_Store
+
+# QGIS plugin-specific (if any generated files)
